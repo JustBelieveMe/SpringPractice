@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation=" 
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+	<bean
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<value>WEB-INF/hello.properties</value>
+		</property>
+	</bean>
+
+	<bean id="dataSource" class="spring01.HelloWorld" scope="request">
+		<property name="message" value="${hi}"></property>
+	</bean>
+	<bean id="seeyou" class="spring01.SeeYou" scope="request">
+		<constructor-arg value="${seeYou}" />
+		<constructor-arg ref="dataSource" />
+	</bean>
+	<bean id="goodbye" class="spring01.Goodbye" depends-on="seeyou"
+		init-method="init" scope="request">
+		<property name="helloWorld" ref="dataSource"></property>
+		<property name="message" value="${goodbye}"></property>
+	</bean>
+</beans>
+
+

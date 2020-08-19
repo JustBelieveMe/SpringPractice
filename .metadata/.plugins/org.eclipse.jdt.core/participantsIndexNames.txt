@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Practice\Program\Java\SpringPractice_forTomCat\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3125411473.index
+\pset.spring01\src\main\resources
