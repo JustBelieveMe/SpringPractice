@@ -91,3 +91,180 @@
 2020-08-19 09:24:52,133 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-19 09:24:52,135 [Worker-22: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-08-19 09:24:52,137 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:26:08,856 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-19 09:26:12,059 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:26:12,072 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:26:12,084 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:26:12,088 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:27:08,089 [Worker-12: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:08,106 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:27:08,109 [Worker-12: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:08,112 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:27:20,267 [Worker-6: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:20,270 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:27:20,273 [Worker-6: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:20,276 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:27:23,869 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:23,871 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:27:23,873 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:23,875 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:27:26,098 [Worker-7: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:26,100 [Worker-7: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:27:26,102 [Worker-7: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:27:26,103 [Worker-7: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:28:52,094 [Worker-19: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:28:52,098 [Worker-19: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-19 09:28:52,104 [Worker-19: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:28:52,106 [Worker-19: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:29:05,603 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:05,605 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-19 09:29:05,607 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:05,608 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:29:09,917 [Worker-12: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:09,921 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:29:09,923 [Worker-12: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:09,928 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:29:10,962 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:10,966 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:29:10,968 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:10,973 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:29:43,505 [Worker-13: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:43,508 [Worker-13: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-19 09:29:43,509 [Worker-13: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:29:43,511 [Worker-13: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:30:25,127 [Worker-19: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:30:25,129 [Worker-19: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:30:25,134 [Worker-19: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:30:25,135 [Worker-19: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:31:40,291 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:31:40,293 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:31:40,295 [Worker-4: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:31:40,296 [Worker-4: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:32:02,357 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:32:02,359 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:32:02,360 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:32:02,362 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:32:21,282 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:32:21,284 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 09:32:21,285 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:32:21,287 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:33:45,233 [Worker-7: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:33:45,235 [Worker-7: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:33:45,236 [Worker-7: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:33:45,238 [Worker-7: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:36:37,820 [Worker-23: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:36:37,824 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:36:37,826 [Worker-23: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:36:37,830 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:45:40,302 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:45:40,304 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:45:40,305 [Worker-3: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:45:40,307 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 09:45:58,690 [Worker-30: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:45:58,693 [Worker-30: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 09:45:58,694 [Worker-30: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 09:45:58,697 [Worker-30: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:00:55,269 [Worker-37: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:00:55,271 [Worker-37: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:00:55,272 [Worker-37: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:00:55,274 [Worker-37: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:01:43,673 [Worker-42: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:01:43,676 [Worker-42: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:01:43,677 [Worker-42: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:01:43,680 [Worker-42: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:05:27,299 [Worker-35: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:05:27,301 [Worker-35: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:05:27,302 [Worker-35: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:05:27,303 [Worker-35: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:05:29,448 [Worker-44: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:05:29,451 [Worker-44: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-19 10:05:29,452 [Worker-44: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:05:29,456 [Worker-44: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:06:00,333 [Worker-43: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:06:00,335 [Worker-43: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:06:00,336 [Worker-43: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:06:00,338 [Worker-43: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:06:42,031 [Worker-47: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:06:42,033 [Worker-47: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:06:42,034 [Worker-47: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:06:42,035 [Worker-47: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:07:04,305 [Worker-45: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:07:04,307 [Worker-45: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:07:04,308 [Worker-45: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:07:04,309 [Worker-45: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:07:43,393 [Worker-30: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:07:43,396 [Worker-30: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:07:43,397 [Worker-30: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:07:43,398 [Worker-30: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:11:17,830 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:17,833 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 10:11:17,834 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:17,836 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:11:21,160 [Worker-51: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:21,161 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:11:21,162 [Worker-51: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:21,163 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:11:29,991 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:29,992 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 10:11:29,994 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:29,995 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:11:36,303 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:36,306 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:11:36,307 [Worker-50: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:11:36,308 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:12:30,526 [Worker-54: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:12:30,529 [Worker-54: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:12:30,529 [Worker-54: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:12:30,531 [Worker-54: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:13:14,780 [Worker-49: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:13:14,783 [Worker-49: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:13:14,784 [Worker-49: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:13:14,785 [Worker-49: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:24:19,726 [Worker-47: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:24:19,728 [Worker-47: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 10:24:19,729 [Worker-47: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:24:19,730 [Worker-47: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:24:50,280 [Worker-58: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:24:50,282 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 10:24:50,283 [Worker-58: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:24:50,285 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:34:19,749 [Worker-35: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:34:19,752 [Worker-35: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 10:34:19,753 [Worker-35: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:34:19,756 [Worker-35: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 10:34:34,133 [Worker-61: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:34:34,136 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 10:34:34,138 [Worker-61: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 10:34:34,140 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 11:14:33,466 [Worker-81: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 11:14:33,469 [Worker-81: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 11:14:33,471 [Worker-81: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 11:14:33,473 [Worker-81: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:33:37,627 [Worker-133: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:33:37,662 [Worker-133: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-19 14:33:37,664 [Worker-133: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:33:37,666 [Worker-133: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:33:39,900 [Worker-133: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:33:39,902 [Worker-133: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:33:39,904 [Worker-133: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:33:39,905 [Worker-133: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:36:22,082 [Worker-138: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:36:22,084 [Worker-138: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:36:22,085 [Worker-138: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:36:22,087 [Worker-138: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:37:03,830 [Worker-139: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:37:03,832 [Worker-139: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:37:03,833 [Worker-139: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:37:03,834 [Worker-139: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:41:08,331 [Worker-141: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:41:08,334 [Worker-141: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:41:08,335 [Worker-141: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:41:08,336 [Worker-141: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:42:05,097 [Worker-138: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:42:05,099 [Worker-138: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:42:05,100 [Worker-138: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:42:05,102 [Worker-138: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
+2020-08-19 14:42:18,080 [Worker-142: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:42:18,082 [Worker-142: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-19 14:42:18,083 [Worker-142: Building...] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-08-19 14:42:18,084 [Worker-142: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Practice\Program\Java\SpringPractice_forTomCat\pset.spring01\src\test\resources
